@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm I'm EzzEldine</h1>
-<h3 align="center">A Passionate Software Engineer|Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm EzzEldine</h1>
+<h3 align="center">A Passionate Software Engineer/Competitive Programmer</h3>
 
 <p align="left"> <a href="https://twitter.com/ezzeldine22" target="blank"><img src="https://img.shields.io/twitter/follow/ezzeldine22?logo=twitter&style=for-the-badge" alt="ezzeldine22" /></a> </p>
 
