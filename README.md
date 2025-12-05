@@ -30,6 +30,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ezzeldine22&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldine22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+# Typing Speed:
+<a href="https://data.typeracer.com/pit/profile?user=ezzeldine22&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ezzeldine22" border="0" alt="TypeRacer.com scorecard for user ezzeldine22"/></a>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ezzeldine22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
