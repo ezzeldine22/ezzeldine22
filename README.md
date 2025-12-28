@@ -6,6 +6,9 @@
 </h3>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezzeldine22&color=brightgreen&abbreviated=true" alt="Profile Views" />
+</p>
 
 ## 🌐 Socials:
 <p align="center">
