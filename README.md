@@ -1,14 +1,14 @@
-<h1 align="center">💫 About Me</h1>
+<!-- =================== HEADER =================== -->
+<div align="center">
 
-<h3 align="center">
-  Hi 👋, I'm <span style="color:#00bfff;">Ezzeldine Reda</span> <br>
-  🎓 Computer Science Student | 💻 Backend Developer
-</h3>
+<h1>Hi there, I'm <strong>Ezzeldine Reda</strong> 👋</h1>
+<h3>🚀 Software Engineer | ASP.NET Core Backend Developer | Competitive Programmer </h3>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezzeldine22&color=brightgreen&abbreviated=true" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code.+Compete.+Create.+Repeat." alt="Typing"/>
+
+<img src="https://komarev.com/ghpvc/?username=ezzeldine22&label=Profile+views&color=blueviolet&style=flat-square" />
+</div>
+
 
 ## 🌐 Socials:
 <p align="center">
@@ -34,8 +34,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldine22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ezzeldine22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📊 Codeforces & LeetCode
+
+<p align="center">
+  <img src="https://cf.leed.at?id=Ezz-Eldine" alt="Codeforces Rating" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/ezzeldine?theme=dark&font=Karla&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
 
 # ⌨️ Typing Speed:
 <a href="https://data.typeracer.com/pit/profile?user=ezzeldine22&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ezzeldine22" border="0" alt="TypeRacer.com scorecard for user ezzeldine22"/></a>
