@@ -28,15 +28,19 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ezzeldine22&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ezzeldine22&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldine22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ezzeldine22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="420" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ezzeldine22&count_private=true&theme=react&border_radius=10"/>
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=ezzeldine22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ezzeldine22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
+</p>
+
 
 ## 📊 Codeforces & LeetCode
 
