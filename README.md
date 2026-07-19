@@ -31,7 +31,7 @@
 
 <p align="center">
   <img width="420" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ezzeldine22&count_private=true&theme=react&border_radius=10"/>
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=ezzeldine22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+ 
 </p>
 
 <p align="center">
